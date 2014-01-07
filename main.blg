@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2010)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: apacite.bst
-I found no \bibdata command---while reading file main.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=5001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -10,56 +9,100 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Warning--I didn't find a database entry for "Keuning1988a"
-Warning--I didn't find a database entry for "King1981a"
+Database file #1: references.bib
+Warning--entry type for "ScotGov2013a" isn't style-file defined
+--line 65 of file references.bib
+Warning--entry type for "ScotGov2013b" isn't style-file defined
+--line 83 of file references.bib
+Warning--entry type for "ScotGov2013c" isn't style-file defined
+--line 101 of file references.bib
+Warning--entry type for "ScotGov2012" isn't style-file defined
+--line 119 of file references.bib
+Warning--entry type for "HMRC2013" isn't style-file defined
+--line 161 of file references.bib
+Warning--entry type for "ONS2011b" isn't style-file defined
+--line 179 of file references.bib
+Warning--entry type for "ONS2011c" isn't style-file defined
+--line 197 of file references.bib
+Warning--entry type for "ONS2012" isn't style-file defined
+--line 447 of file references.bib
+Warning--entry type for "ONS2011a" isn't style-file defined
+--line 465 of file references.bib
+Warning--entry type for "ONS2010a" isn't style-file defined
+--line 485 of file references.bib
+Repeated entry---line 503 of file references.bib
+ : @electronic{ONS2010a
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 543 of file references.bib
+ : @electronic{ONS2011a
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "ScottishGovernment2013a" isn't style-file defined
+--line 665 of file references.bib
+Warning--entry type for "ScottishGovernment2011a" isn't style-file defined
+--line 685 of file references.bib
+Warning--entry type for "HMTR2012" isn't style-file defined
+--line 853 of file references.bib
 Warning--I didn't find a database entry for "Adelman1986a"
-Warning--I didn't find a database entry for "Breisinger2010a"
-Warning--I didn't find a database entry for "Round2003a"
-Warning--I didn't find a database entry for "Hosoe2010a"
-Warning--I didn't find a database entry for "Stuttard2003b"
-Warning--I didn't find a database entry for "Reinert1997a"
-Warning--I didn't find a database entry for "ScottishGovernment2013a"
-Warning--I didn't find a database entry for "ScottishGovernment2011a"
 apacite.bst [2009/03/01 v4.05 APA bibliography style]
-You've used 0 entries,
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5187 of file apacite.bst
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5208 of file apacite.bst
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5214 of file apacite.bst
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5217 of file apacite.bst
+Warning--No address in Breisinger2010a
+Warning--No address in Hosoe2010a
+Warning--No address in Reinert1997a
+Warning--No address in Round2003a
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5225 of file apacite.bst
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5225 of file apacite.bst
+Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
+while executing---line 5225 of file apacite.bst
+You've used 20 entries,
             6361 wiz_defined-function locations,
-            1196 strings with 9901 characters,
-and the built_in function-call counts, 42 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 1
-:= -- 31
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            1287 strings with 12808 characters,
+and the built_in function-call counts, 33449 in all, are:
+= -- 4625
+> -- 234
+< -- 1371
++ -- 1230
+- -- 60
+* -- 1858
+:= -- 5489
+add.period$ -- 80
+call.type$ -- 20
+change.case$ -- 100
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 44
+duplicate$ -- 693
+empty$ -- 1386
+format.name$ -- 346
+if$ -- 6864
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 54
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 440
+num.names$ -- 160
+pop$ -- 522
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 80
 quote$ -- 0
-skip$ -- 1
+skip$ -- 2871
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 1353
+swap$ -- 354
+text.length$ -- 48
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 2536
+warning$ -- 4
+while$ -- 120
 width$ -- 0
-write$ -- 2
-(There was 1 error message)
+write$ -- 505
+(There were 9 error messages)
