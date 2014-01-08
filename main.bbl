@@ -1,482 +1,567 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Breisinger%
 , Thoimas%
-\BCBL{}\ \BBA{} Thurlow%
+\BCBL {}\ \BBA {} Thurlow%
 }{%
 Breisinger%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
 }]{%
+Breisinger2010a}
+\APACinsertmetastar {%
 Breisinger2010a}%
-\APACinsertmetastar{%
-Breisinger2010a}%
+\begin{APACrefauthors}%
 Breisinger, C.%
 , Thoimas, M.%
-\BCBL{}\ \BBA{} Thurlow, J.%
-%
+\BCBL {}\ \BBA {} Thurlow, J.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYear{2010}.
 \newblock
-\APACrefbtitle{{Social Accounting Matrices and Multiplier Analysis}}{{Social
+\APACrefbtitle {{Social Accounting Matrices and Multiplier Analysis}} {{Social
   Accounting Matrices and Multiplier Analysis}}.
 \newblock
 \APACaddressPublisher{}{International Food Policy Research Institute}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Government%
 }{%
 Government%
 }{%
-{\protect\APACyear{2012}}%
+{\protect \APACyear {2012}}%
 }]{%
+ScotGov2012}
+\APACinsertmetastar {%
 ScotGov2012}%
-\APACinsertmetastar{%
-ScotGov2012}%
+\begin{APACrefauthors}%
 Government, S.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2012}{}{}.
 \newblock
-\APACrefbtitle{{Businesses in Scotland 2012}.}{{Businesses in Scotland 2012}.}
+\APACrefbtitle {{Businesses in Scotland 2012}.} {{Businesses in Scotland
+  2012}.}
 \newblock
- \begin{APACrefURL} \url{http://www.scotland.gov.uk/Resource/0041/00411283.pdf}
+\begin{APACrefURL}
+  [{30/05/2013}]\url{http://www.scotland.gov.uk/Resource/0041/00411283.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Government%
 }{%
 Government%
 }{%
-{\protect\APACyear{2013}}%
-{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+ScotGov2013b}
+\APACinsertmetastar {%
 ScotGov2013b}%
-\APACinsertmetastar{%
-ScotGov2013b}%
+\begin{APACrefauthors}%
 Government, S.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2013{\protect\BCnt{1}}}{}{}.
+\APACrefYearMonthDay{2013{\protect \BCnt {1}}}{}{}.
 \newblock
-\APACrefbtitle{{Government Expenditure \& Revenue Scotland
-  2011-12}.}{{Government Expenditure \& Revenue Scotland 2011-12}.}
+\APACrefbtitle {{Government Expenditure \& Revenue Scotland 2011-12}.}
+  {{Government Expenditure \& Revenue Scotland 2011-12}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://www.scotland.gov.uk/Resource/0041/00415872.xlsx} \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Government%
-}{%
-Government%
-}{%
-{\protect\APACyear{2013}}%
-{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
-ScotGov2013a}%
-\APACinsertmetastar{%
-ScotGov2013a}%
-Government, S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013{\protect\BCnt{2}}}{}{}.
-\newblock
-\APACrefbtitle{{Industry by industry matrix at basic prices
-  1998-2009}.}{{Industry by industry matrix at basic prices 1998-2009}.}
-\newblock
- \begin{APACrefURL}
-  \url{http://www.scotland.gov.uk/Resource/0042/00423822.xlsx} \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem[\protect\citeauthoryear{%
-Government%
-}{%
-Government%
-}{%
-{\protect\APACyear{2013}}%
-{\protect\APACexlab{{\protect\BCnt{3}}}}}]{%
-ScotGov2013c}%
-\APACinsertmetastar{%
-ScotGov2013c}%
-Government, S.%
-%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013{\protect\BCnt{3}}}{}{}.
-\newblock
-\APACrefbtitle{{Scottish National Accounts Tables 2012 Q4}.}{{Scottish National
-  Accounts Tables 2012 Q4}.}
-\newblock
- \begin{APACrefURL} \url{http://www.scotland.gov.uk/Resource/0042/00423120.xls}
+\begin{APACrefURL}
+  [{25/05/2013}]\url{http://www.scotland.gov.uk/Resource/0041/00415872.xlsx}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
-HMRC%
+\bibitem [\protect \citeauthoryear {%
+Government%
 }{%
-HMRC%
+Government%
 }{%
-{\protect\APACyear{2013}}%
-{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
-HMRC2013}%
-\APACinsertmetastar{%
-HMRC2013}%
-HMRC.%
-%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ScotGov2013a}
+\APACinsertmetastar {%
+ScotGov2013a}%
+\begin{APACrefauthors}%
+Government, S.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2013{\protect\BCnt{1}}}{}{}.
+\APACrefYearMonthDay{2013{\protect \BCnt {2}}}{}{}.
 \newblock
-\APACrefbtitle{{Capital Gains Tax Rates and Annual Tax-free
-  Allowances}.}{{Capital Gains Tax Rates and Annual Tax-free Allowances}.}
+\APACrefbtitle {{Industry by industry matrix at basic prices 1998-2009}.}
+  {{Industry by industry matrix at basic prices 1998-2009}.}
 \newblock
- \begin{APACrefURL} \url{http://www.hmrc.gov.uk/rates/cgt.htm} \end{APACrefURL}
+\begin{APACrefURL}
+  [{25/05/2013}]\url{http://www.scotland.gov.uk/Resource/0042/00423822.xlsx}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
-HMRC%
+\bibitem [\protect \citeauthoryear {%
+Government%
 }{%
-HMRC%
+Government%
 }{%
-{\protect\APACyear{2013}}%
-{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
-ONS2011c}%
-\APACinsertmetastar{%
-ONS2011c}%
-HMRC.%
-%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+ScotGov2013c}
+\APACinsertmetastar {%
+ScotGov2013c}%
+\begin{APACrefauthors}%
+Government, S.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2013{\protect\BCnt{2}}}{}{}.
+\APACrefYearMonthDay{2013{\protect \BCnt {3}}}{}{}.
 \newblock
-\APACrefbtitle{{United Kingdom National Accounts - Blue Book 2011}.}{{United
+\APACrefbtitle {{Scottish National Accounts Tables 2012 Q4}.} {{Scottish
+  National Accounts Tables 2012 Q4}.}
+\newblock
+\begin{APACrefURL}
+  [{06/06/2013}]\url{http://www.scotland.gov.uk/Resource/0042/00423120.xls}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hermannsson%
+, Lisenkova%
+, McGregor%
+\BCBL {}\ \BBA {} Swales%
+}{%
+Hermannsson%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Hermannsson2010a}
+\APACinsertmetastar {%
+Hermannsson2010a}%
+\begin{APACrefauthors}%
+Hermannsson, K.%
+, Lisenkova, K.%
+, McGregor, P.%
+\BCBL {}\ \BBA {} Swales, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{An HEI-Disaggregated Input-Output Table for Scotland}}
+  {{An HEI-Disaggregated Input-Output Table for Scotland}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Strathclyde Discussion Papers in
+  Economics}{10}{14}{1-31}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+HMRC%
+}{%
+HMRC%
+}{%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+HMRC2013}
+\APACinsertmetastar {%
+HMRC2013}%
+\begin{APACrefauthors}%
+HMRC.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Capital Gains Tax Rates and Annual Tax-free Allowances}.}
+  {{Capital Gains Tax Rates and Annual Tax-free Allowances}.}
+\newblock
+\begin{APACrefURL} [{04/06/2013}]\url{http://www.hmrc.gov.uk/rates/cgt.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+HMRC%
+}{%
+HMRC%
+}{%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ONS2011c}
+\APACinsertmetastar {%
+ONS2011c}%
+\begin{APACrefauthors}%
+HMRC.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{United Kingdom National Accounts - Blue Book 2011}.} {{United
   Kingdom National Accounts - Blue Book 2011}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://www.ons.gov.uk/ons/datasets-and-tables/downloads/xls-download.xls?dataset=bb}
+\begin{APACrefURL}
+  [{25/05/2013}]\url{http://www.ons.gov.uk/ons/datasets-and-tables/downloads/xls-download.xls?dataset=bb}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Hosoe%
 , Gasawa%
-\BCBL{}\ \BBA{} Hashimoto%
+\BCBL {}\ \BBA {} Hashimoto%
 }{%
 Hosoe%
-\ \protect\BOthers{.}}{%
-{\protect\APACyear{2010}}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
 }]{%
+Hosoe2010a}
+\APACinsertmetastar {%
 Hosoe2010a}%
-\APACinsertmetastar{%
-Hosoe2010a}%
+\begin{APACrefauthors}%
 Hosoe, N.%
 , Gasawa, K.%
-\BCBL{}\ \BBA{} Hashimoto, H.%
-%
+\BCBL {}\ \BBA {} Hashimoto, H.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYear{2010}.
 \newblock
-\APACrefbtitle{{Textbook of Computable General Equilibrium Modelling
-  Programming and Simulations}}{{Textbook of Computable General Equilibrium
+\APACrefbtitle {{Textbook of Computable General Equilibrium Modelling
+  Programming and Simulations}} {{Textbook of Computable General Equilibrium
   Modelling Programming and Simulations}}.
 \newblock
 \APACaddressPublisher{}{Palgrave Macmillan.}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Keuning%
-\ \BBA{} Ruuter%
+\ \BBA {} de Ruuter%
 }{%
 Keuning%
-\ \BBA{} Ruuter%
+\ \BBA {} de Ruuter%
 }{%
-{\protect\APACyear{1988}}%
+{\protect \APACyear {1988}}%
 }]{%
+Keuning1988a}
+\APACinsertmetastar {%
 Keuning1988a}%
-\APACinsertmetastar{%
-Keuning1988a}%
+\begin{APACrefauthors}%
 Keuning, S\BPBI J.%
-\BCBT{}\ \BBA{} Ruuter, W\BPBI A. de.%
-%
+\BCBT {}\ \BBA {} de Ruuter, W\BPBI A.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{1988}{}{}.
 \newblock
-\BBOQ{}\APACrefatitle{{Guidelines to the construction of a Social Acconting
-  Matrix}}{{Guidelines to the construction of a Social Acconting
-  Matrix}}.\BBCQ{}
+{\BBOQ}\APACrefatitle {{Guidelines to the construction of a Social Acconting
+  Matrix}} {{Guidelines to the construction of a Social Acconting
+  Matrix}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Review of Income and Wealth}{34}{1}{71-100}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 King%
 }{%
 King%
 }{%
-{\protect\APACyear{1981}}%
+{\protect \APACyear {1981}}%
 }]{%
+King1981a}
+\APACinsertmetastar {%
 King1981a}%
-\APACinsertmetastar{%
-King1981a}%
+\begin{APACrefauthors}%
 King, B.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{1981}{}{}.
 \newblock
-\BBOQ{}\APACrefatitle{{What is a SAM? a layman's guide to social accounting
-  matrices}}{{What is a SAM? a layman's guide to social accounting
-  matrices}}.\BBCQ{}
+{\BBOQ}\APACrefatitle {{What is a SAM? a layman's guide to social accounting
+  matrices}} {{What is a SAM? a layman's guide to social accounting
+  matrices}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{World Bank staff working paper}{}{463}{1-59}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 ONS%
 }{%
 ONS%
 }{%
-{\protect\APACyear{2010}}%
+{\protect \APACyear {2010}}%
 }]{%
+ONS2010a}
+\APACinsertmetastar {%
 ONS2010a}%
-\APACinsertmetastar{%
-ONS2010a}%
+\begin{APACrefauthors}%
 ONS.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2010}{}{}.
 \newblock
-\APACrefbtitle{{International Passenger Survey, 2009}.}{{International
+\APACrefbtitle {{International Passenger Survey, 2009}.} {{International
   Passenger Survey, 2009}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://discover.ukdataservice.ac.uk/catalogue/?sn=6255&type=Data%20catalogue#documentation}
+\begin{APACrefURL}
+  [{06/06/2013}]\url{http://discover.ukdataservice.ac.uk/catalogue/?sn=6255&type=Data%20catalogue#documentation}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 ONS%
 }{%
 ONS%
 }{%
-{\protect\APACyear{2011}}%
-{\protect\APACexlab{{\protect\BCnt{1}}}}}]{%
+{\protect \APACyear {2011}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+ONS2011a}
+\APACinsertmetastar {%
 ONS2011a}%
-\APACinsertmetastar{%
-ONS2011a}%
+\begin{APACrefauthors}%
 ONS.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2011{\protect\BCnt{1}}}{}{}.
+\APACrefYearMonthDay{2011{\protect \BCnt {1}}}{}{}.
 \newblock
-\APACrefbtitle{{Labour Force Survey Background and Methodology}.}{{Labour Force
-  Survey Background and Methodology}.}
+\APACrefbtitle {{Labour Force Survey Background and Methodology}.} {{Labour
+  Force Survey Background and Methodology}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://www.ons.gov.uk/ons/guide-method/method-quality/specific/labour-market/labour-market-statistics/index.html}
+\begin{APACrefURL}
+  [{27.06.2013}]\url{http://www.ons.gov.uk/ons/guide-method/method-quality/specific/labour-market/labour-market-statistics/index.html}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 ONS%
 }{%
 ONS%
 }{%
-{\protect\APACyear{2011}}%
-{\protect\APACexlab{{\protect\BCnt{2}}}}}]{%
+{\protect \APACyear {2011}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ONS2011b}
+\APACinsertmetastar {%
 ONS2011b}%
-\APACinsertmetastar{%
-ONS2011b}%
+\begin{APACrefauthors}%
 ONS.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2011{\protect\BCnt{2}}}{}{}.
+\APACrefYearMonthDay{2011{\protect \BCnt {2}}}{}{}.
 \newblock
-\APACrefbtitle{{Regional Gross Disposable Household Income (GDHI)
-  1995-2009}.}{{Regional Gross Disposable Household Income (GDHI) 1995-2009}.}
+\APACrefbtitle {{Regional Gross Disposable Household Income (GDHI) 1995-2009}.}
+  {{Regional Gross Disposable Household Income (GDHI) 1995-2009}.}
 \newblock
- \begin{APACrefURL} \url{http://www.ons.gov.uk/ons/dcp171778_227345.pdf}
+\begin{APACrefURL}
+  [{25/05/2013}]\url{http://www.ons.gov.uk/ons/dcp171778_227345.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 ONS%
 }{%
 ONS%
 }{%
-{\protect\APACyear{2012}}%
+{\protect \APACyear {2012}}%
 }]{%
+ONS2012}
+\APACinsertmetastar {%
 ONS2012}%
-\APACinsertmetastar{%
-ONS2012}%
+\begin{APACrefauthors}%
 ONS.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2012}{}{}.
 \newblock
-\APACrefbtitle{{Families and Households, 2001 to 2011}.}{{Families and
+\APACrefbtitle {{Families and Households, 2001 to 2011}.} {{Families and
   Households, 2001 to 2011}.}
 \newblock
- \begin{APACrefURL} \url{http://www.ons.gov.uk/ons/dcp171778_251357.pdf}
+\begin{APACrefURL}
+  [{04/06/2013}]\url{http://www.ons.gov.uk/ons/dcp171778_251357.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
-Reinert%
-\ \BBA{} Roland-Holst%
+\bibitem [\protect \citeauthoryear {%
+ONS%
 }{%
-Reinert%
-\ \BBA{} Roland-Holst%
+ONS%
 }{%
-{\protect\APACyear{1997}}%
+{\protect \APACyear {2013}}%
 }]{%
+ONS2013a}
+\APACinsertmetastar {%
+ONS2013a}%
+\begin{APACrefauthors}%
+ONS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {{Table 2.4 Gross Disposable Household Income (GDHI)1,2 by
+  component at current basic prices}.} {{Table 2.4 Gross Disposable Household
+  Income (GDHI)1,2 by component at current basic prices}.}
+\newblock
+\begin{APACrefURL}
+  [{15.05.2013}]\url{http://www.ons.gov.uk/ons/guide-method/method-quality/specific/labour-market/labour-market-statistics/index.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reinert%
+\ \BBA {} Roland-Holst%
+}{%
+Reinert%
+\ \BBA {} Roland-Holst%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Reinert1997a}
+\APACinsertmetastar {%
 Reinert1997a}%
-\APACinsertmetastar{%
-Reinert1997a}%
+\begin{APACrefauthors}%
 Reinert, A.%
-\BCBT{}\ \BBA{} Roland-Holst, D.%
-%
+\BCBT {}\ \BBA {} Roland-Holst, D.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYear{1997}.
 \newblock
-\APACrefbtitle{{Social Accounting Matrices}}{{Social Accounting Matrices}}.
+\APACrefbtitle {{Social Accounting Matrices}} {{Social Accounting Matrices}}.
 \newblock
 \APACaddressPublisher{}{Chapter 4 in in Francois, J.F., and Reinert A.K.
   (editors) Applied Methods for Trade Policy Analysis: A Handbook, Cambridge
   University Press}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Round%
 }{%
 Round%
 }{%
-{\protect\APACyear{2003}}%
+{\protect \APACyear {2003}}%
 }]{%
+Round2003a}
+\APACinsertmetastar {%
 Round2003a}%
-\APACinsertmetastar{%
-Round2003a}%
+\begin{APACrefauthors}%
 Round, J.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYear{2003}.
 \newblock
-\APACrefbtitle{{Social Accounting Matrices and SAM-based Multiplier
-  Analysis}}{{Social Accounting Matrices and SAM-based Multiplier Analysis}}.
+\APACrefbtitle {{Social Accounting Matrices and SAM-based Multiplier Analysis}}
+  {{Social Accounting Matrices and SAM-based Multiplier Analysis}}.
 \newblock
 \APACaddressPublisher{}{Chapter 14 in Bourguignon F., and Pereira da Silva, LA.
   (editors) Techniques and Tools for Evaluating the Poverty Impact of Economic
   Policies, World Bank and Oxford University Press}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 {Scottish Government}%
 }{%
 {Scottish Government}%
 }{%
-{\protect\APACyear{2011}}%
+{\protect \APACyear {2011}}%
 }]{%
+ScottishGovernment2011a}
+\APACinsertmetastar {%
 ScottishGovernment2011a}%
-\APACinsertmetastar{%
-ScottishGovernment2011a}%
+\begin{APACrefauthors}%
 {Scottish Government}.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-\APACrefbtitle{{Input-Output Methodology Guide}.}{{Input-Output Methodology
+\APACrefbtitle {{Input-Output Methodology Guide}.} {{Input-Output Methodology
   Guide}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://www.scotland.gov.uk/Resource/Doc/919/0116738.pdf}
+\begin{APACrefURL}
+  [{25/01/2013}]\url{http://www.scotland.gov.uk/Resource/Doc/919/0116738.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 {Scottish Government}%
 }{%
 {Scottish Government}%
 }{%
-{\protect\APACyear{2013}}%
+{\protect \APACyear {2013}}%
 }]{%
+ScottishGovernment2013a}
+\APACinsertmetastar {%
 ScottishGovernment2013a}%
-\APACinsertmetastar{%
-ScottishGovernment2013a}%
+\begin{APACrefauthors}%
 {Scottish Government}.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2013}{}{}.
 \newblock
-\APACrefbtitle{{2009 IO Tables}.}{{2009 IO Tables}.}
+\APACrefbtitle {{2009 IO Tables}.} {{2009 IO Tables}.}
 \newblock
- \begin{APACrefURL}
-  \url{http://www.scotland.gov.uk/Resource/0042/00422350.xlsx} \end{APACrefURL}
+\begin{APACrefURL}
+  [{27.06.2013}]\url{http://www.scotland.gov.uk/Resource/0042/00422350.xlsx}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Stuttard%
-\ \BBA{} Frogner%
+\ \BBA {} Frogner%
 }{%
 Stuttard%
-\ \BBA{} Frogner%
+\ \BBA {} Frogner%
 }{%
-{\protect\APACyear{2003b}}%
+{\protect \APACyear {2003b}}%
 }]{%
+Stuttard2003b}
+\APACinsertmetastar {%
 Stuttard2003b}%
-\APACinsertmetastar{%
-Stuttard2003b}%
+\begin{APACrefauthors}%
 Stuttard, N.%
-\BCBT{}\ \BBA{} Frogner, M.%
-%
+\BCBT {}\ \BBA {} Frogner, M.%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2003b}{}{}.
 \newblock
-\BBOQ{}\APACrefatitle{{Linking together economic and social data: Using social
-  accounting matrices to look at the distribution of earnings}}{{Linking
+{\BBOQ}\APACrefatitle {{Linking together economic and social data: Using social
+  accounting matrices to look at the distribution of earnings}} {{Linking
   together economic and social data: Using social accounting matrices to look
-  at the distribution of earnings}}.\BBCQ{}
+  at the distribution of earnings}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Labour Market Trends}{111}{5}{247-256}.
 \PrintBackRefs{\CurrentBib}
 
-\bibitem[\protect\citeauthoryear{%
+\bibitem [\protect \citeauthoryear {%
 Treasury%
 }{%
 Treasury%
 }{%
-{\protect\APACyear{2012}}%
+{\protect \APACyear {2012}}%
 }]{%
+HMTR2012}
+\APACinsertmetastar {%
 HMTR2012}%
-\APACinsertmetastar{%
-HMTR2012}%
+\begin{APACrefauthors}%
 Treasury, H.%
-%
+\end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2012}{}{}.
 \newblock
-\APACrefbtitle{{Public Expenditure Statistical Analyses}.}{{Public Expenditure
-  Statistical Analyses}.}
+\APACrefbtitle {{Public Expenditure Statistical Analyses}.} {{Public
+  Expenditure Statistical Analyses}.}
 \newblock
- \begin{APACrefURL}
-  \url{https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/179563/pesa_complete_2012.pdf.pdf}
+\begin{APACrefURL}
+  [{25/05/2013}]\url{https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/179563/pesa_complete_2012.pdf.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 

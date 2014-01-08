@@ -1,23 +1,21 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.12.18)  7 JAN 2014 07:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.15)  7 JAN 2014 13:21
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **main.tex
-(./main.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
-, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
-kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
-german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
- bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
-telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
- lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
-nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
- turkmen, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/report.cls
+(C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -33,41 +31,41 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count89
 \leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count91
 \DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count93
 \c@MaxMatrixCols=\count94
 \dotsspace@=\muskip10
@@ -88,23 +86,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/07/13 v5.5 Page Geometry
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count100
 \Gm@cntv=\count101
@@ -118,8 +119,9 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layouthoffset=\dimen118
 \Gm@layoutvoffset=\dimen119
 \Gm@dimlist=\toks20
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen120
 \WF@size=\dimen121
 \c@WF@wrappedlines=\count103
@@ -127,28 +129,35 @@ Package ifvtex Info: VTeX not detected.
 \WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count104
 ))
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count105
 \float@exts=\toks22
@@ -156,264 +165,245 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks23
 \@floatcapt=\box30
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
-
-Package: `setspace' 6.7 <2000/12/01>
-) (/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2010/06/18 v6.81g Hypertext links for LaTeX
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-))
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdfescape.sty
-Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
-s (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-))
-(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/hycolor.sty
-Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
-Package: xcolor-patch 2009/12/12 xcolor patch
-))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
-Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen124
 \Hy@linkcounter=\count106
 \Hy@pagecounter=\count107
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2010/06/18 v6.81g Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/intcalc.sty
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count108
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
-)
-Package hyperref Info: Hyper figures OFF on input line 3658.
-Package hyperref Info: Link nesting OFF on input line 3663.
-Package hyperref Info: Hyper index ON on input line 3666.
-Package hyperref Info: Plain pages OFF on input line 3673.
-Package hyperref Info: Backreferencing OFF on input line 3678.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count109
 
-Implicit mode ON; LaTeX internals redefined
-Package hyperref Info: Bookmarks ON on input line 3874.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4159.
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bitset.sty
-Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
-Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
-))
-\Fld@menulength=\count108
-\Field@Width=\dimen125
-\Fld@charsize=\dimen126
-\Field@toks=\toks24
-Package hyperref Info: Hyper figures OFF on input line 5137.
-Package hyperref Info: Link nesting OFF on input line 5142.
-Package hyperref Info: Hyper index ON on input line 5145.
-Package hyperref Info: backreferencing OFF on input line 5152.
-Package hyperref Info: Link coloring OFF on input line 5157.
-Package hyperref Info: Link coloring with OCG OFF on input line 5162.
-Package hyperref Info: PDF/A mode OFF on input line 5167.
-LaTeX Info: Redefining \ref on input line 5207.
-LaTeX Info: Redefining \pageref on input line 5211.
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen125
+\Fld@menulength=\count110
+\Field@Width=\dimen126
+\Fld@charsize=\dimen127
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count111
+\c@Item=\count112
+\c@Hfootnote=\count113
 )
-\Hy@abspage=\count109
-\c@Item=\count110
-\c@Hfootnote=\count111
-)
-* hyperref using default driver hpdftex *
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2010/06/18 v6.81g Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/atveryend.sty
-Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
-Package atveryend Info: \enddocument detected (standard).
-)
-\Fld@listcount=\count112
-\c@bookmark@seq@number=\count113
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count114
+\c@bookmark@seq@number=\count115
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
-Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
-)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-71.
+82.
 )
 \Hy@SectionHShift=\skip46
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2007/08/12 v2.8 Sectioning titles
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box31
 \beforetitleunit=\skip47
 \aftertitleunit=\skip48
-\ttl@plus=\dimen127
-\ttl@minus=\dimen128
-\ttl@toksa=\toks25
-\titlewidth=\dimen129
-\titlewidthlast=\dimen130
-\titlewidthfirst=\dimen131
+\ttl@plus=\dimen128
+\ttl@minus=\dimen129
+\ttl@toksa=\toks24
+\titlewidth=\dimen130
+\titlewidthlast=\dimen131
+\titlewidthfirst=\dimen132
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/apacite/apacite.sty
-Package: apacite 2009/03/01 v4.05 APA citation
-\c@BibCnt=\count114
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count116
 \bibleftmargin=\skip49
 \bibindent=\skip50
 \bibparsep=\skip51
 \bibitemsep=\skip52
+\biblabelsep=\skip53
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/booktabs/booktabs.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen132
-\lightrulewidth=\dimen133
-\cmidrulewidth=\dimen134
-\belowrulesep=\dimen135
-\belowbottomsep=\dimen136
-\aboverulesep=\dimen137
-\abovetopsep=\dimen138
-\cmidrulesep=\dimen139
-\cmidrulekern=\dimen140
-\defaultaddspace=\dimen141
-\@cmidla=\count115
-\@cmidlb=\count116
-\@aboverulesep=\dimen142
-\@belowrulesep=\dimen143
-\@thisruleclass=\count117
-\@lastruleclass=\count118
-\@thisrulewidth=\dimen144
+\heavyrulewidth=\dimen133
+\lightrulewidth=\dimen134
+\cmidrulewidth=\dimen135
+\belowrulesep=\dimen136
+\belowbottomsep=\dimen137
+\aboverulesep=\dimen138
+\abovetopsep=\dimen139
+\cmidrulesep=\dimen140
+\cmidrulekern=\dimen141
+\defaultaddspace=\dimen142
+\@cmidla=\count117
+\@cmidlb=\count118
+\@aboverulesep=\dimen143
+\@belowrulesep=\dimen144
+\@thisruleclass=\count119
+\@lastruleclass=\count120
+\@thisrulewidth=\dimen145
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/multirow/bigstrut.sty
-\bigstrutjot=\dimen145
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\bigstrut.sty"
+\bigstrutjot=\dimen146
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/refcount.sty
-Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+\c@section@level=\count121
 )
-\c@section@level=\count119
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip53
-\LTright=\skip54
-\LTpre=\skip55
-\LTpost=\skip56
-\LTchunksize=\count120
-\LTcapwidth=\dimen146
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count122
+\LTcapwidth=\dimen147
 \LT@head=\box32
 \LT@firsthead=\box33
 \LT@foot=\box34
 \LT@lastfoot=\box35
-\LT@cols=\count121
-\LT@rows=\count122
-\c@LT@tables=\count123
-\c@LT@chunks=\count124
-\LT@p@ftn=\toks26
+\LT@cols=\count123
+\LT@rows=\count124
+\c@LT@tables=\count125
+\c@LT@chunks=\count126
+\LT@p@ftn=\toks25
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/arydshln/arydshln.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\arydshln\arydshln.sty"
 Package: arydshln 2004/08/31 v1.71 
-\dashlinedash=\dimen147
-\dashlinegap=\dimen148
+\dashlinedash=\dimen148
+\dashlinegap=\dimen149
 \adl@box=\box36
-\adl@height=\dimen149
-\adl@heightsave=\dimen150
-\adl@depth=\dimen151
-\adl@depthsave=\dimen152
-\adl@finaldepth=\dimen153
-\adl@columns=\count125
-\adl@ncol=\count126
-\adl@currentcolumn=\count127
-\adl@currentcolumnsave=\count128
-\adl@totalheight=\count129
-\adl@totalheightsave=\count130
-\adl@dash=\count131
-\adl@gap=\count132
-\adl@cla=\count133
-\adl@clb=\count134
-\adl@everyvbox=\toks27
-\adl@LTpagetotal=\dimen154
+\adl@height=\dimen150
+\adl@heightsave=\dimen151
+\adl@depth=\dimen152
+\adl@depthsave=\dimen153
+\adl@finaldepth=\dimen154
+\adl@columns=\count127
+\adl@ncol=\count128
+\adl@currentcolumn=\count129
+\adl@currentcolumnsave=\count130
+\adl@totalheight=\count131
+\adl@totalheightsave=\count132
+\adl@dash=\count133
+\adl@gap=\count134
+\adl@cla=\count135
+\adl@clb=\count136
+\adl@everyvbox=\toks26
+\adl@LTpagetotal=\dimen155
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/rotating/rotating.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count135
-\rotFPtop=\skip57
-\rotFPbot=\skip58
+\c@r@tfl@t=\count137
+\rotFPtop=\skip58
+\rotFPbot=\skip59
 \rot@float@box=\box37
-\rot@mess@toks=\toks28
+\rot@mess@toks=\toks27
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2009/05/18 v2.2 Customized lists
-\enit@toks=\toks29
-\labelindent=\skip59
-\enit@outerparindent=\dimen155
-\enitdp@desc=\count136
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip60
+\enit@outerparindent=\dimen156
+\enit@toks=\toks28
+\enit@inbox=\box38
+\enitdp@description=\count138
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/lscape.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 5.
- (./main.aux)
-\openout1 = `main.aux'.
 
+(C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -463,39 +453,25 @@ LaTeX Font Info:    ... okay on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count137
-\scratchdimen=\dimen156
-\scratchbox=\box38
-\nofMPsegments=\count138
-\nofMParguments=\count139
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count140
-\MPscratchDim=\dimen157
-\MPnumerator=\count141
-\everyMPtoPDFconversion=\toks31
-) (/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+\scratchcounter=\count139
+\scratchdimen=\dimen157
+\scratchbox=\box39
+\nofMPsegments=\count140
+\nofMParguments=\count141
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen158
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
+\everyMPtoPDFconversion=\toks30
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 436.
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-\AtBeginShipoutBox=\box39
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
+\AtBeginShipoutBox=\box40
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
@@ -505,46 +481,43 @@ LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 
-(./main.out) (./main.out)
+(C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.out)
+(C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\c@maskedRefs=\count145
 
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/apacite/english.apc
-File: english.apc 2009/03/01 v4.05 apacite language file
-LaTeX Info: Redefining \BPBI on input line 119.
-LaTeX Info: Redefining \BHBI on input line 120.
-
-NOT AUSTRALIAN!!!
-) (./Chapters/Chapter1.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+(C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\Chapters\Chapter1.tex
 Chapter 1.
-) (./Chapters/Chapter2.tex [1
+) (C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\Chapters\Chapter2.tex [1
 
 
-{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Chapter 2.
 [2
 
 ]
-Overfull \hbox (20.41792pt too wide) in paragraph at lines 23--24
+Overfull \hbox (20.41792pt too wide) in paragraph at lines 17--18
 \T1/cmr/m/n/10.95 The SAM can be con-sid-ered as an ex-ten-sion to an IO ta-ble
  which not only records macroeconomic-
  []
 
 
-LaTeX Warning: Citation `Adelman1986a' undefined on input line 27.
+LaTeX Warning: Citation `Adelman1986a' undefined on input line 21.
 
 [3] [4] [5]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 106.
-
- (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
-
-[6]
-Overfull \hbox (26.87189pt too wide) in paragraph at lines 146--219
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+ [6]
+Overfull \hbox (26.87189pt too wide) in paragraph at lines 137--210
  [][] 
  []
 
@@ -552,94 +525,76 @@ Overfull \hbox (26.87189pt too wide) in paragraph at lines 146--219
 Overfull \vbox (31.36375pt too high) has occurred while \output is active []
 
 
-[8] [9] <incexpsources.jpg, id=157, 730.73pt x 521.95pt>
+[8] [9] <incexpsources.jpg, id=160, 730.73pt x 521.95pt>
 File: incexpsources.jpg Graphic file (type jpg)
 
-<use incexpsources.jpg> [10 <./incexpsources.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+<use incexpsources.jpg>
+Package pdftex.def Info: incexpsources.jpg used on input line 230.
+(pdftex.def)             Requested size: 433.62457pt x 310.76718pt.
+ [10 <C:/Users/yhb12203/Dropbox/Uni/Git/Thesis/incexpsources.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-
- []
-
-[11pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.315 T
-       his is calculated from three sources. First, taking the Capital Gains...
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
-3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.315 T
-       his is calculated from three sources. First, taking the Capital Gains...
-]pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5
-.4}) has been already used, duplicate ignored
+[11]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+2.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.320 \begin{equation}
+l.313 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.2.5.4}) has been already used, duplicate ignored
+er (name{equation.2.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.320 \begin{equation}
+l.313 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.2.5.4}) has been already used, duplicate ignored
+er (name{equation.2.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.320 \begin{equation}
+l.313 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.2.5.4}) has been already used, duplicate ignored
+er (name{equation.2.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.320 \begin{equation}
-                       [12pdfTeX warning (ext4): destination with the same iden
-tifier (name{equation.2.5.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.380 \end{equation}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{equation.2.5.6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.380 \end{equation}
-                    ]
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+l.313 \begin{equation}
+                      
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
+LaTeX Warning: Reference `tab:2.5.2' on page 12 undefined on input line 333.
+
+
+Overfull \hbox (8.11427pt too wide) in paragraph at lines 333--334
+[]\T1/cmr/m/n/10.95 Table [] il-lus-trates this pro-cess. First, the GDHI data 
+for 1999 is ob-tained [][][]Hermannsson
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 
  []
 
 [13pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.7}) has been already used, duplicate ignored
+.5.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.427 \end{equation}
+l.422 \end{equation}
                     pdfTeX warning (ext4): destination with the same identifier
- (name{equation.2.5.8}) has been already used, duplicate ignored
+ (name{equation.2.5.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.427 \end{equation}
+l.422 \end{equation}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.2.5.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.422 \end{equation}
                     ]
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
 
  []
 
@@ -649,99 +604,116 @@ Underfull \hbox (badness 10000) in paragraph at lines 468--469
  []
 
 [14pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.9}) has been already used, duplicate ignored
+.5.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.484 \end{equation}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{equation.2.5.10}) has been already used, duplicate ignored
+l.476 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.2.5.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.484 \end{equation}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{equation.2.5.11}) has been already used, duplicate ignored
+l.476 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.2.5.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.484 \end{equation}
-                    ]
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+l.476 
+      ]pdfTeX warning (ext4): destination with the same identifier (name{equati
+on.2.5.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.478 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.2.5.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.478 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.2.5.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.478 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.2.5.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.478 \begin{equation}
+                      
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
 
  []
 
 [15pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.5.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.530 T
+       otals Figure: Summation of all of the above, excluding the total hous...
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
+11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.530 T
+       otals Figure: Summation of all of the above, excluding the total hous...
+]
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
+
+ []
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.510 
+l.568 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.2.5.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.510 
+l.568 
       ]pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.515 \begin{equation}
+l.573 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.515 \begin{equation}
+l.573 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.515 \begin{equation}
+l.573 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.515 \begin{equation}
+l.573 \begin{equation}
                       
-Underfull \hbox (badness 10000) in paragraph at lines 529--530
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
-
- []
-
-[16pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.15}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.566 \end{equation}
-                    \\pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.2.5.16}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.566 \end{equation}
-                    \\]
-Underfull \hbox (badness 10000) in paragraph at lines 566--567
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 592--593
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 608--609
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
 
  []
 
@@ -751,176 +723,209 @@ Underfull \hbox (badness 10000) in paragraph at lines 624--625
  []
 
 [17pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.17}) has been already used, duplicate ignored
+.5.15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.625 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
-n.2.5.18}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.625 
-      pdfTeX warning (ext4): destination with the same identifier (name{equatio
-n.2.5.19}) has been already used, duplicate ignored
+n.2.5.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.625 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--658
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
 
  []
 
 [18pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.5.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.683 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.2.5.18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.683 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.2.5.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.683 
+      ]
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+
+ []
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.662 
+l.720 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.2.5.21}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.662 
+l.720 
       ]pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.22}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.671 \begin{equation}
+l.729 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.22}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.671 \begin{equation}
+l.729 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.22}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.671 \begin{equation}
+l.729 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.22}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.671 \begin{equation}
+l.729 \begin{equation}
                       
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--701
+Overfull \hbox (3.86812pt too wide) in paragraph at lines 746--747
+\T1/cmr/m/n/10.95 both House-holds and Gov-ern-ment (3 and 31) are de-ducted fr
+om it from it. [][][]Government[][],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
+Underfull \hbox (badness 10000) in paragraph at lines 774--775
 
  []
 
-[19pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[20pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.23}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.728 \end{equation}
+l.786 \end{equation}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{equation.2.5.24}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.728 \end{equation}
+l.786 \end{equation}
                     ]
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 766--767
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
 
  []
 
-[20pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[21pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.770 
+l.828 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.2.5.26}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.770 
+l.828 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.2.5.27}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.770 
+l.828 
       ]pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.28}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.775 \begin{equation}
+l.833 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.28}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.775 \begin{equation}
+l.833 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.28}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.775 \begin{equation}
+l.833 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.28}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.775 \begin{equation}
+l.833 \begin{equation}
                       
-Underfull \hbox (badness 10000) in paragraph at lines 788--789
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 804--805
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--829
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
 
  []
 
-[21pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[22pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.29}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.833 E
+l.891 E
        qual to OVA repatriated to RUK (see \ref{eq:2.5.80}). \cite{ScotGov20...
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 30}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.833 E
+l.891 E
        qual to OVA repatriated to RUK (see \ref{eq:2.5.80}). \cite{ScotGov20...
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 833--834
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
 
  []
 
@@ -928,145 +933,151 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 31}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.835 \begin{equation}
+l.893 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.31}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.835 \begin{equation}
+l.893 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.31}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.835 \begin{equation}
+l.893 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.31}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.835 \begin{equation}
+l.893 \begin{equation}
                       
-Underfull \hbox (badness 10000) in paragraph at lines 844--845
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--861
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 880--881
+Underfull \hbox (badness 10000) in paragraph at lines 938--939
 
  []
 
-[22pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[23pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.32}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.884 
+l.942 
       pdfTeX warning (ext4): destination with the same identifier (name{equatio
 n.2.5.33}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.884 
+l.942 
       ]pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.34}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.893 \begin{equation}
+l.951 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.34}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.893 \begin{equation}
+l.951 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.34}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.893 \begin{equation}
+l.951 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.5.34}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.893 \begin{equation}
+l.951 \begin{equation}
                       
-Underfull \hbox (badness 10000) in paragraph at lines 905--906
+Underfull \hbox (badness 10000) in paragraph at lines 963--964
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 926--927
+Overfull \hbox (7.4178pt too wide) in paragraph at lines 968--969
+[]\T1/cmr/m/n/10.95 Equal to ``Taxes less sub-si-dies on pro-duc-tion'' for all
+ pub-lic sec-tors (see 30). [][][]Government[][],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
+Underfull \hbox (badness 10000) in paragraph at lines 989--990
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 943--944
-
- []
-
-[23pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.35}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.946 \item \textbf
-                    {Income from Households}pdfTeX warning (ext4): destination 
-with the same identifier (name{equation.2.5.36}) has been already used, duplica
-te ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.946 \item \textbf
-                    {Income from Households}]
-Underfull \hbox (badness 10000) in paragraph at lines 959--960
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 975--976
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 980--981
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1002
 
  []
 
 [24pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.5.35}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1004 \item \textbf
+                     {Income from Households}pdfTeX warning (ext4): destination
+ with the same identifier (name{equation.2.5.36}) has been already used, duplic
+ate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1004 \item \textbf
+                     {Income from Households}]
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1018
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1054
+
+ []
+
+[25pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.37}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1000 C
+l.1058 C
         orresponding Figure: Equal to Total Government Expenditure Balancing...
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 38}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1000 C
+l.1058 C
         orresponding Figure: Equal to Total Government Expenditure Balancing...
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 39}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1000 C
+l.1058 C
         orresponding Figure: Equal to Total Government Expenditure Balancing...
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
 
  []
 
@@ -1074,29 +1085,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 40}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1002 \begin{equation}
+l.1060 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.40}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1002 \begin{equation}
+l.1060 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.40}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1002 \begin{equation}
+l.1060 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.40}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1002 \begin{equation}
+l.1060 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
 
  []
 
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1020
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1078
 
  []
 
@@ -1104,83 +1115,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 41}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1021 \begin{equation}
+l.1079 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.41}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1021 \begin{equation}
+l.1079 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.41}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1021 \begin{equation}
+l.1079 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.41}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1021 \begin{equation}
+l.1079 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1051--1052
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1072
-
- []
-
-[26pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.42}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1076 C
-        orresponding Figure: Income from Government from the Household Incom...
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
-43}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1076 C
-        orresponding Figure: Income from Government from the Household Incom...
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1077
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
-44}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1078 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.44}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1078 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.44}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1078 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.44}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1078 \begin{equation}
-                       
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1093
 
  []
 
@@ -1189,146 +1141,205 @@ Underfull \hbox (badness 10000) in paragraph at lines 1109--1110
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+
+ []
+
 [27pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.45}) has been already used, duplicate ignored
+.5.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1127 \end{equation}
-                     ]
+l.1134 C
+        orresponding Figure: Income from Government from the Household Incom...
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
+43}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1134 C
+        orresponding Figure: Income from Government from the Household Incom...
+]
 Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
 
  []
 
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
+44}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1136 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.44}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1136 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.44}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1136 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.44}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1136 \begin{equation}
+                       
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1146
 
-Underfull \hbox (badness 10000) in paragraph at lines 1139--1140
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1167--1168
 
  []
 
 [28pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.5.45}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1185 \end{equation}
+                     ]
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+
+ []
+
+[29pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.46}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1164 \end{equation}
+l.1222 \end{equation}
                      \\pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.47}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1164 \end{equation}
+l.1222 \end{equation}
                      \\]
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
-
- []
-
-[29]pdfTeX warning (ext4): destination with the same identifier (name{equation.
-2.5.48}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1178 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.48}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1178 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.48}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1178 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.48}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1178 \begin{equation}
-                       
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1222--1223
 
  []
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[30]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+2.5.48}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1236 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.48}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1236 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.48}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1236 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.48}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1236 \begin{equation}
+                       
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1280--1281
+
+ []
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.49}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1234 \end{equation}
+l.1292 \end{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.5.50}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1234 \end{equation}
+l.1292 \end{equation}
                      ]
-Underfull \hbox (badness 10000) in paragraph at lines 1238--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1296--1297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+Underfull \hbox (badness 10000) in paragraph at lines 1313--1314
 
  []
 
-[31pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[32pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.51}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1259 
+l.1317 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.52}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1259 
+l.1317 
        ]pdfTeX warning (ext4): destination with the same identifier (name{equat
 ion.2.5.53}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1264 \begin{equation}
+l.1322 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.53}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1264 \begin{equation}
+l.1322 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.53}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1264 \begin{equation}
+l.1322 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.53}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1264 \begin{equation}
+l.1322 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1274
+Underfull \hbox (badness 10000) in paragraph at lines 1331--1332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1290--1291
+Underfull \hbox (badness 10000) in paragraph at lines 1348--1349
 
  []
 
-[32pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[33pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.54}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1295 
+l.1353 
        ]
-Underfull \hbox (badness 10000) in paragraph at lines 1303--1304
+Underfull \hbox (badness 10000) in paragraph at lines 1361--1362
 
  []
 
@@ -1336,129 +1347,129 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 55}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1305 \begin{equation}
+l.1363 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.55}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1305 \begin{equation}
+l.1363 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.55}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1305 \begin{equation}
+l.1363 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.55}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1305 \begin{equation}
+l.1363 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1315--1316
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1331--1332
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1336--1337
+Underfull \hbox (badness 10000) in paragraph at lines 1394--1395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1350--1351
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1355--1356
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 
  []
 
-[33pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[34pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.56}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1356 
+l.1414 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.57}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1356 
+l.1414 
        ]pdfTeX warning (ext4): destination with the same identifier (name{equat
 ion.2.5.58}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1357 \begin{equation}
+l.1415 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.58}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1357 \begin{equation}
+l.1415 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.58}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1357 \begin{equation}
+l.1415 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.58}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1357 \begin{equation}
+l.1415 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1367--1368
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1384
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1388--1389
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1400--1401
+Underfull \hbox (badness 10000) in paragraph at lines 1458--1459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 
  []
 
-[34pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[35pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.59}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1413 \end{equation}
+l.1471 \end{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.5.60}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1413 \end{equation}
+l.1471 \end{equation}
                      ]
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
 
  []
 
-[35pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[36pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.61}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1422 
+l.1480 
        ]
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
 
  []
 
@@ -1466,158 +1477,158 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 62}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1427 \begin{equation}
+l.1485 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.62}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1427 \begin{equation}
+l.1485 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.62}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1427 \begin{equation}
+l.1485 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.62}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1427 \begin{equation}
+l.1485 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1500--1501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 
  []
 
-[36pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[37pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.63}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1484 \end{equation}
+l.1542 \end{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.5.64}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1484 \end{equation}
+l.1542 \end{equation}
                      ]
-Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
+Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1504--1505
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1521
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1579
 
  []
 
-[37pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[38pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.65}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1538 \end{equation}
+l.1596 \end{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.5.66}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1538 \end{equation}
+l.1596 \end{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.5.67}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1538 \end{equation}
+l.1596 \end{equation}
                      ]
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
 
  []
 
-[38pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[39pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.68}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1582 
+l.1640 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.69}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1582 
+l.1640 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.70}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1582 
+l.1640 
        ]pdfTeX warning (ext4): destination with the same identifier (name{equat
 ion.2.5.71}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1592 \begin{equation}
+l.1650 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.71}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1592 \begin{equation}
+l.1650 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.71}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1592 \begin{equation}
+l.1650 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.71}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1592 \begin{equation}
+l.1650 \begin{equation}
                        
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1661
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1678
 
  []
 
-[39pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[40pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.72}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1624 
+l.1682 
        ]
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1686
 
  []
 
@@ -1625,134 +1636,76 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.5.
 73}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1629 \begin{equation}
+l.1687 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.73}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1629 \begin{equation}
+l.1687 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.73}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1629 \begin{equation}
+l.1687 \begin{equation}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.2.5.73}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1629 \begin{equation}
-                       
-Underfull \hbox (badness 10000) in paragraph at lines 1641--1642
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1660--1661
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1676--1677
-
- []
-
-[40pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.74}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1681 
-       pdfTeX warning (ext4): destination with the same identifier (name{equati
-on.2.5.75}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1681 
-       ]pdfTeX warning (ext4): destination with the same identifier (name{equat
-ion.2.5.76}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1690 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.76}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1690 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.76}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1690 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.76}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1690 \begin{equation}
+l.1687 \begin{equation}
                        
 Underfull \hbox (badness 10000) in paragraph at lines 1699--1700
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1715--1716
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1720--1721
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1731--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1735
 
  []
 
 [41pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.77}) has been already used, duplicate ignored
+.5.74}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1749 \end{equation}
-                     \\pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.78}) has been already used, duplicate ignored
+l.1739 
+       pdfTeX warning (ext4): destination with the same identifier (name{equati
+on.2.5.75}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1749 \end{equation}
-                     \\]
-Underfull \hbox (badness 10000) in paragraph at lines 1749--1750
+l.1739 
+       ]pdfTeX warning (ext4): destination with the same identifier (name{equat
+ion.2.5.76}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1748 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.76}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1748 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.76}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1748 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.76}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1748 \begin{equation}
+                       
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
 
  []
 
-[42pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.5.79}) has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1752 
-       ]pdfTeX warning (ext4): destination with the same identifier (name{equat
-ion.2.5.80}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1757 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.80}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1757 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.80}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1757 \begin{equation}
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{equation.2.5.80}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1757 \begin{equation}
-                       
-Underfull \hbox (badness 10000) in paragraph at lines 1766--1767
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1774
 
  []
 
@@ -1762,45 +1715,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 1778--1779
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1790--1791
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1790
+
+ []
+
+[42pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.5.77}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1807 \end{equation}
+                     \\pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.78}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1807 \end{equation}
+                     \\pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.79}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1807 \end{equation}
+                     \\]
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1808
+
+ []
+
+[43]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+2.5.80}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1815 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.80}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1815 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.80}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1815 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.2.5.80}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1815 \begin{equation}
+                       
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1825
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1836--1837
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1816--1817
+Underfull \hbox (badness 10000) in paragraph at lines 1848--1849
 
  []
 
-[43pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+
+Underfull \hbox (badness 10000) in paragraph at lines 1861--1862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1874--1875
+
+ []
+
+[44pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .5.81}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1823 
+l.1881 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.82}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1823 
+l.1881 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.83}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1823 
+l.1881 
        pdfTeX warning (ext4): destination with the same identifier (name{equati
 on.2.5.84}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1823 
-       ]) (./Appendices/AppendixA.tex
+l.1881 
+       ]) (C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\Appendices\AppendixA.tex
 Overfull \hbox (23.28372pt too wide) in alignment at lines 9--15
  [] [] [] [] [] [] [] 
  []
@@ -1845,7 +1856,7 @@ Overfull \hbox (23.28372pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] 
  []
 
-[44]
+[45]
 Overfull \hbox (23.28372pt too wide) in alignment at lines 122--147
  [] [] [] [] [] [] [] 
  []
@@ -1860,97 +1871,98 @@ Overfull \hbox (23.28372pt too wide) has occurred while \output is active
  [] [] [] [] [] [] [] 
  []
 
-[45]) [46] (./main.bbl
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 47.
+[46]) [47] (C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.bbl
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 51.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1cmtt.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 6893) in paragraph at lines 152--165
-[]\T1/cmr/m/n/10.95 HMRC.  (2013b).  \T1/cmr/m/it/10.95 United King-dom Na-tion
-al Ac-counts - Blue Book 2011.
- []
-
-[47
+) [48
 
 ]
-Underfull \hbox (badness 1953) in paragraph at lines 252--265
-[]\T1/cmr/m/n/10.95 ONS.  (2010).  \T1/cmr/m/it/10.95 In-ter-na-tional Pas-sen-
-ger Sur-vey, 2009.  \T1/cmr/m/n/10.95 Avail-able from [][]$\T1/cmtt/m/n/10.95 h
-ttp ://
+Underfull \hbox (badness 10000) in paragraph at lines 299--312
+[][]$\T1/cmtt/m/n/10.95 http :// discover [] .ukdataservice [] .ac [] .uk / cat
+alogue / []?sn = 6255&type = Data %$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--265
-\T1/cmtt/m/n/10.95 discover [] .ukdataservice [] .ac [] .uk / catalogue / []?sn
- = 6255&type = Data % 20catalogue #
+Underfull \hbox (badness 10000) in paragraph at lines 324--337
+\T1/cmr/m/n/10.95 from [][]$\T1/cmtt/m/n/10.95 http :// www [] .ons [] .gov [] 
+.uk / ons / guide [] -method / method [] -quality / specific /$
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 276--289
-[]\T1/cmr/m/n/10.95 ONS.  (2011a).  \T1/cmr/m/it/10.95 Labour Force Sur-vey Bac
-k-ground and Method-ol-ogy.  \T1/cmr/m/n/10.95 Avail-
- []
-
-[48]
-Underfull \hbox (badness 2326) in paragraph at lines 469--482
-[]\T1/cmr/m/n/10.95 Treasury, H.  (2012).  \T1/cmr/m/it/10.95 Pub-lic Ex-pen-di
--ture Sta-tis-ti-cal Anal-y-ses.  \T1/cmr/m/n/10.95 Avail-able from
+Underfull \hbox (badness 4279) in paragraph at lines 399--413
+[]\T1/cmr/m/n/10.95 ONS.  (2013).  \T1/cmr/m/it/10.95 Ta-ble 2.4 Gross Dis-pos-
+able House-hold In-come (GDHI)1,2 by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--482
+Underfull \hbox (badness 5862) in paragraph at lines 399--413
+\T1/cmr/m/it/10.95 com-po-nent at cur-rent ba-sic prices.  \T1/cmr/m/n/10.95 Re
+-trieved 15.05.2013, from [][]$\T1/cmtt/m/n/10.95 http ://$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--413
+$\T1/cmtt/m/n/10.95 www [] .ons [] .gov [] .uk / ons / guide [] -method / metho
+d [] -quality / specific / labour [] -market /$
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 554--567
 [][]$\T1/cmtt/m/n/10.95 https :// www [] .gov [] .uk / government / uploads / s
-ystem / uploads / attachment [] []data /
+ystem / uploads / attachment [] []data /$
  []
 
-) [49] [1]
+) [50] [1]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
- (./main.aux)
+ (C:\Users\yhb12203\Dropbox\Uni\Git\Thesis\main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8F75644F7FD55DC3E9E0BEB70DA0A4E0;877.
+(rerunfilecheck)             Checksum: 29912553F7E404E0A6EC552F7A800657;902.
 
 
 LaTeX Warning: There were undefined references.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7863 strings out of 493747
- 111896 string characters out of 3143545
- 259609 words of memory out of 3000000
- 10722 multiletter control sequences out of 15000+200000
+ 8401 strings out of 493921
+ 118868 string characters out of 3147272
+ 257159 words of memory out of 3000000
+ 11301 multiletter control sequences out of 15000+200000
  21625 words of font info for 50 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 31i,17n,29p,2322b,577s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 841 hyphenation exceptions out of 8191
+ 29i,17n,31p,2322b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{cite.Adelman1986a} has been referenced but does n
 ot exist, replaced by a fixed one
 
-{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2010/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/tex
-live/2010/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texli
-ve/2010/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive
-/2010/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2
-010/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/201
-0/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2010/
-texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2010/te
-xmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2010/texm
-f-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2010/texmf-
-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2010/texmf-di
-st/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2010/texmf-dist
-/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2010/texmf-dist/f
-onts/type1/public/cm-super/sftt1095.pfb>
-Output written on main.pdf (50 pages, 499349 bytes).
+ <C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ectt1095.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ecti1095.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\yhb12203\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\yhb
+12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> 
+<C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx1200.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
+en\ec\dpi600\ecbx0800.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\yhb12203\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\yhb12203\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\yhb1
+2203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <
+C:\Users\yhb12203\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+cbx2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (51 pages, 448154 bytes).
 PDF statistics:
- 740 PDF objects out of 1000 (max. 8388607)
- 661 compressed objects within 7 object streams
- 251 named destinations out of 1000 (max. 500000)
+ 1257 PDF objects out of 1440 (max. 8388607)
+ 256 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
