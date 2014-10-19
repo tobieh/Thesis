@@ -1,0 +1,32 @@
+\contentsline {chapter}{\numberline {1}Multiplier Analysis}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Data}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}2009 Scottish IxI Tables}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}2009 Scottish SAM}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}SNAP}{4}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Output Multiplier}{5}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Type I Output Multiplier}{5}{subsection.1.3.1}
+\contentsline {subsubsection}{Calculation}{5}{subsection.1.3.1}
+\contentsline {subsubsection}{Interpretation}{7}{equation.1.3.4}
+\contentsline {subsection}{\numberline {1.3.2}Type II Output Multiplier}{8}{subsection.1.3.2}
+\contentsline {subsubsection}{Calculation}{8}{subsection.1.3.2}
+\contentsline {subsubsection}{Interpretation}{10}{equation.1.3.5}
+\contentsline {subsection}{\numberline {1.3.3}SAM Output Mulltiplier}{10}{subsection.1.3.3}
+\contentsline {subsubsection}{Calculation}{11}{subsection.1.3.3}
+\contentsline {subsubsection}{Interpretation}{12}{equation.1.3.6}
+\contentsline {section}{\numberline {1.4}Four Type II Methods}{13}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Miller and Blair}{13}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}IxI Household Expenditure Total}{13}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}SAM Output Mulltiplier}{14}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}SAM Output Multiplier}{14}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}Results}{15}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Multiplier Descriptives}{15}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Multiplier Difference Statistics}{16}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Error Computation}{17}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Summary of Results}{19}{subsection.1.5.4}
+\contentsline {section}{\numberline {1.6}Conclusion}{20}{section.1.6}
+\contentsline {section}{\numberline {1.7}Appendix}{21}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Appendix A}{21}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Appendix B}{24}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Appendix C}{27}{subsection.1.7.3}
+\contentsline {chapter}{References}{28}{chapter*.4}

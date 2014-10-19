@@ -1,5 +1,11 @@
-\documentclass[11pt,a4paper]{report}
-\usepackage{amsmath, geometry, wrapfig,graphicx,float,setspace,hyperref,url,titlesec,apacite,booktabs,bigstrut,nameref,longtable,arydshln,rotating,enumitem,lscape} 
+	\documentclass[11pt,a4paper]{report}
+\usepackage{amsmath,geometry,wrapfig,graphicx,float,setspace,hyperref,url,titlesec,apacite,booktabs,bigstrut,nameref,longtable,arydshln,rotating,enumitem,lscape,pgfplots,rotating,mathtools} 
+\usepackage{etoolbox}
+\usepackage[bottom]{footmisc}
+\let\bbordermatrix\bordermatrix
+\patchcmd{\bbordermatrix}{8.75}{4.75}{}{}
+\patchcmd{\bbordermatrix}{\left(}{\left[}{}{}
+\patchcmd{\bbordermatrix}{\right)}{\right]}{}{}
 \renewcommand{\rmdefault}{phv} % Arial
 \renewcommand{\sfdefault}{phv} % Arial
 \usepackage[T1]{fontenc} 
@@ -18,10 +24,29 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-%The content
+\begin{titlepage}
+\pagenumbering{roman}
+\thispagestyle{empty}
+\newcommand{\HRule}{\rule{\linewidth}{0.00mm}} 
+\center 
+%\begin{figure}[H]
+%\center{\includegraphics[width=0.5\linewidth]{strathclyde}}
+%\end{figure}\vspace{2em}
+%{\Large Strathclyde Business School Department of Economics}\\[0.3cm] 
+\HRule \\[0.4cm]
+{ \huge \bfseries Output Multiplier Analysis}\\[0.4cm] 
+\HRule \\[3.5cm]
+%{\Large ..... first notes} \\ [4cm] 
+{\small Emonts-Holley, T\\Ross, A\\Swales, K} \\ [4cm] 
+{\small \today}\\[3cm] % Date
+\vfill 
+\end{titlepage}
+
 
 %----------------------------------------------------------------------------------------
 %	ABSTRACT
+%\abstract 
+%IO Type II Multipliers are used widely, but their derivations differ. This paper analyses four methods used to derive the Type II Output Multiplier for the Scottish economy. These methods are measured against the SAM output multiplier in order to determine a best fit. The data for this is predominantly derived from the 2009 Scottish Industry-by-Industry (IxI) Input-Output Tables and the 2009 Scottish SAM. This paper finds that the use of more comprehensive data for the endogenising of the Household sector results in a closer fit of the Type II in comparison to the SAM output multiplier. However, data availability might limit the computation of the more comprehensive Type II output multiplier.
 %----------------------------------------------------------------------------------------
 
 %The content
@@ -48,7 +73,16 @@
 %	TABLE OF CONTENTS / FIGURES  / TABLES
 %----------------------------------------------------------------------------------------
 
-%The content
+\begin{spacing}{1.9}
+\tableofcontents 
+\end{spacing}
+\begin{spacing}{1.9}
+\listoffigures
+\end{spacing}
+\begin{spacing}{1.9}
+\listoftables 
+\end{spacing}
+
 
 %----------------------------------------------------------------------------------------
 %	END ROMAN
@@ -62,15 +96,17 @@
 %	CHAPTERS
 %----------------------------------------------------------------------------------------
 
-\input{./Chapters/Chapter1}
-\input{./Chapters/Chapter2} 
+%\input{./Chapters/Chapter1}
+%\input{./Chapters/Chapter2} 
+%\input{./Chapters/Chapter3} 
+\input{./Chapters/Chapter4} 
 % etc
 
 %----------------------------------------------------------------------------------------
 %	APPENDICES
 %----------------------------------------------------------------------------------------
 
-\input{./Appendices/AppendixA} 
+%\input{./Appendices/AppendixA} 
 % etc
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY

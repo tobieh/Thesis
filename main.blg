@@ -1,56 +1,90 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
 The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: references.bib
-Warning--entry type for "ScotGov2013a" isn't style-file defined
---line 33 of file references.bib
-Warning--entry type for "ScotGov2013b" isn't style-file defined
---line 42 of file references.bib
 Warning--entry type for "ScotGov2013c" isn't style-file defined
---line 51 of file references.bib
-Warning--entry type for "ScotGov2012" isn't style-file defined
---line 60 of file references.bib
-Warning--entry type for "HMRC2013" isn't style-file defined
---line 81 of file references.bib
-Warning--entry type for "ONS2011b" isn't style-file defined
---line 90 of file references.bib
-Warning--entry type for "ONS2011c" isn't style-file defined
---line 99 of file references.bib
-Warning--entry type for "ONS2013a" isn't style-file defined
---line 213 of file references.bib
-Warning--entry type for "ONS2012" isn't style-file defined
---line 224 of file references.bib
-Warning--entry type for "ONS2011a" isn't style-file defined
---line 233 of file references.bib
-Warning--entry type for "ONS2010a" isn't style-file defined
---line 243 of file references.bib
-Repeated entry---line 252 of file references.bib
- : @electronic{ONS2010a
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 272 of file references.bib
- : @electronic{ONS2011a
- :                     ,
+--line 91 of file references.bib
+I was expecting a `,' or a `}'---line 188 of file references.bib
+ : 
+ : @ARTICLE{King1981a,
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "ScottishGovernment2013a" isn't style-file defined
---line 333 of file references.bib
-Warning--entry type for "ScottishGovernment2011a" isn't style-file defined
---line 343 of file references.bib
-Warning--entry type for "HMTR2012" isn't style-file defined
---line 427 of file references.bib
-Warning--I didn't find a database entry for "Adelman1986a"
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5062 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5072 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5075 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5076 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5079 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5079 of file apacite.bst
-Name 2 in "Stuttard, N and Frogner, M.," has a comma at the end for entry Stuttard2003b
-while executing---line 5079 of file apacite.bst
-(There were 9 error messages)
+--line 391 of file references.bib
+Repeated entry---line 543 of file references.bib
+ : @article{Keuning1988a
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 554 of file references.bib
+ : @article{King1981a
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 564 of file references.bib
+ : @article{Adelman1986a
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 576 of file references.bib
+ :   @book{Breisinger2010a
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 634 of file references.bib
+ : @misc{ScottishGovernment2013a
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 680 of file references.bib
+ : @misc{ScotGov2013c
+ :                   ,
+I'm skipping whatever remains of this entry
+apacite.bst [2009/03/01 v4.05 APA bibliography style]
+Warning--No address in Breisinger2010a
+Warning--No address in Miller2009
+You've used 8 entries,
+            6361 wiz_defined-function locations,
+            1232 strings with 10878 characters,
+and the built_in function-call counts, 13298 in all, are:
+= -- 1695
+> -- 111
+< -- 567
++ -- 548
+- -- 21
+* -- 821
+:= -- 2345
+add.period$ -- 32
+call.type$ -- 8
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 319
+empty$ -- 575
+format.name$ -- 178
+if$ -- 2627
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 0
+newline$ -- 188
+num.names$ -- 64
+pop$ -- 231
+preamble$ -- 1
+purify$ -- 32
+quote$ -- 0
+skip$ -- 965
+stack$ -- 0
+substring$ -- 606
+swap$ -- 192
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 784
+warning$ -- 2
+while$ -- 60
+width$ -- 0
+write$ -- 229
+(There were 7 error messages)
